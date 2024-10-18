@@ -93,7 +93,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/GayanMSD/GayanMSD/output/snake.svg" alt="Snake animation" />
-
-###
